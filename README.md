@@ -10,3 +10,6 @@
 
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=oshi36&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffc984&bg_color=191919">
+
+
+### Show some ❤️ by starring some of the repositories!
