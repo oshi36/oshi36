@@ -18,9 +18,10 @@
 
 
 **Languages and Tools:**  
+<br/>
 <code><img src="https://github.com/oshi36/oshi36/blob/main/tools_icons/android.png" height="20"></code>
 <code><img src="https://github.com/oshi36/oshi36/blob/main/tools_icons/flutter.png" height="20"></code>
-<code><img src="https://github.com/oshi36/oshi36/blob/main/tools_icons/firebase.png" height="20"></code>
+<code><img src="https://github.com/oshi36/oshi36/blob/main/tools_icons/firebase.png" height="20" width="15"></code>
 <code><img src="https://github.com/oshi36/oshi36/blob/main/tools_icons/java.png" height="20"></code>
 <code><img src="https://github.com/oshi36/oshi36/blob/main/tools_icons/kotlin.jfif" height="20"></code>
 <code><img src="https://github.com/oshi36/oshi36/blob/main/tools_icons/dart.png" height="20"></code>
@@ -31,5 +32,9 @@
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=oshi36&theme=react&show_icons=true">
 </p>
+
+<br/>
+
+
 
 ### Show some ❤️ by starring some of the repositories!
