@@ -3,7 +3,7 @@
 
 <br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=oshi36.oshi36)
+![](https://visitor-badge.glitch.me/badge?page_id=oshi36.oshi36)<br/>
  I'm an Android and Flutter App Developer, Machine Learning Enthusiast and Open Source Developer from India.
 <br />
 
