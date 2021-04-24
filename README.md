@@ -8,7 +8,7 @@
 <br />
 
 - 🔭 I’m currently working on ...Open Source!
-- 🌱 I’m currently learning Kubernetes and Docker.
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on any project involving Android/Flutter/Machine-Learning.
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: She/Her.
